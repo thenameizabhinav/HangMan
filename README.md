@@ -1,2 +1,2 @@
 # HangMan
-This is a HangMan Game 
+This is a terminal based HangMan Game 
